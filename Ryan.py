@@ -30,7 +30,7 @@
 
 nome = "Ryan"
 sobrenome = "Rafael"
-idade = 2023-2001
+idade = 2023-2020
 altura = 1.73
 peso = 62
 
@@ -38,4 +38,4 @@ print ("nome: " + nome + " "+ sobrenome + ", idade: "+ str(idade) +" anos, altur
 if idade > 17:
         print ("maior de idade")
 else:
-    ("menor de idade")
+    print ("menor de idade")
